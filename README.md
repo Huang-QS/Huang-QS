@@ -19,7 +19,8 @@
 ```yaml
 🎓 江南大学 计算机科学与技术专业
 💻 热爱编程与技术探索
-🎮 正在学习 Android 游戏开发
+🎮 Android 游戏开发 | Java 后端开发
+🗄️ OpenGauss 数据库开发
 🌱 目标：全栈开发者
 📍 江苏
 ```
@@ -35,15 +36,23 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+
+### 数据库
+![OpenGauss](https://img.shields.io/badge/OpenGauss-EE1C25?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3ElEQVQ4T6WTsQ3CQBBE3yAhIaEDOqAEUgIFUAIhCZAQkZCQkJCQkBCRkBCRkBCRkJEQkZCQkJEQkZCQkA/g7tm7c7Znb8Bf8X3jvT0zs/PmbM+ArxmQmRkRC8AcsALsAatA+U/2A9wC18DVn+wbOAcqYAN4AK6BOlD9K/sKDoEK8AbcA1Xg9a/sPdgDboAqUP8r+wB2gQpQ/Sv7AHaBClD9K/sAdoEKUP0r+wB2gQpQ/Sv7AHaBClD9K/sAdoEKUP0r+wB2gQpQ/Sv7AHaBClD9K/sAdoEKUP0r+wB2gQpQ/Sv7AHaBClD9K/sAdoEKUP0r+wB2gQpQ/Sv7AHaBClD9K/sAdoEKUP0r+wB2gQpQ/Sv7AH%2BwDlqjH5P7t3IAAAAABJRU5ErkJggg==&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
 ### 开发工具
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square)
 
 ### 框架 & 工具
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=flat-square)
 
 </div>
